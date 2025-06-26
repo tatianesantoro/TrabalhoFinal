@@ -1,10 +1,11 @@
 {
   "name": "meu-projeto",
   "type": "module",
-  "scripts":{
-   "test": "mocha"
+  "scripts": {
+    "test": "mocha"
   },
   "devDependencies": {
     "mocha": "^11.5.0"
-  }
+  },
+  "version": "0.0.0"
 }
