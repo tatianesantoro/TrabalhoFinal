@@ -4,7 +4,7 @@
 name: 'Execução Manual'
 
 # Regras de disparo (gatilhos/triggers)
-# Gatilhod e execução manual = workflow_dispatch
+# Gatilho de execução manual = workflow_dispatch
 
 on:
   workflow_dispatch:
