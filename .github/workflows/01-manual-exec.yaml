@@ -36,7 +36,7 @@ jobs:
 
       # Instalação das dependências do projeto
       - name: 'Instalação das dependências do projeto'
-        run: yarn install
+        run: yarn
 
       # Instalação do Playwright
       - name: 'Instalação do Playwright'
