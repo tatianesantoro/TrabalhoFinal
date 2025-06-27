@@ -32,7 +32,7 @@ jobs:
 
       # Instalação do Yarn
       - name: 'Instalação do Yarn'
-        run: npm install --global yarn
+        run: npm install -g yarn
 
       # Instalação das dependências do projeto
       - name: 'Instalação das dependências do projeto'
