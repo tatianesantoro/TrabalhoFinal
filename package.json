@@ -2,7 +2,8 @@
   "name": "meu-projeto",
   "type": "module",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "e2e": "playwright test"
   },
   "devDependencies": {
     "@playwright/test": "^1.53.1",
